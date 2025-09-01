@@ -12,8 +12,8 @@ Here you’ll find collection of my projects 🚀 — from **web applications** 
 
 ### [Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection) 
 An anomaly detection system built to identify unusual patterns in data.  
-- **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)    
- 
+- **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
+          
 ---
 ### [🛡️Malware Intrusion Detection](https://github.com/Ah-am/malware-intrusion-detection)
 A malware intrusion detection system built to identify and prevent malicious activities.
@@ -28,8 +28,7 @@ A machine learning model built to predict the likelihood of heart disease
 ---
 ### [🩺Detecting breast cancer](https://github.com/Ah-am/Detecting-breast-cancer-with-SVM-and-KNN)
 A machine learning model built to detect breast cancer from medical data.
-- **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![Pickle](https://img.shields.io/badge/Pickle-009688?logo=python&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+- **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![Pickle](https://img.shields.io/badge/Pickle-009688?logo=python&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
   
  
 ---
