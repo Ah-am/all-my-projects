@@ -9,7 +9,7 @@
 
 ### CyberSecurity
 ##### [Malware Intrusion Detection](https://github.com/Ah-am/malware-intrusion-detection)
-##### [Anomaly Detection](https://example.com)
+##### [Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection/tree/main)
 ##### [Phishing Detection](https://example.com)
 [Link Text](https://example.com)
 
