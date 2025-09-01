@@ -32,7 +32,7 @@ A machine learning model built to detect breast cancer from medical data.
   
  
 ---
-### [🔢Sequence Classification](https://github.com/Ah-am/DNA-Sequence-Classification-using-Machine-Learning)
+### [🧬Sequence Classification](https://github.com/Ah-am/DNA-Sequence-Classification-using-Machine-Learning)
 A deep learning model built for sequence classification
 - **Tech:**  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)    
 ---
@@ -40,4 +40,6 @@ A deep learning model built for sequence classification
 A full-stack data dashboard built with React + Node.js.  
 - **Tech:** React, Node.js, PostgreSQL  
 - [🔗 Live Demo](https://example.com)
+- ### :: for small logo
+
 
