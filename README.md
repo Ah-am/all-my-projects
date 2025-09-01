@@ -1,7 +1,10 @@
 # 🚀 My Project Portfolio  
 
-Hi, I'm [Your Name] 👋 — welcome to my portfolio repo!  
-Here you'll find a collection of projects I've worked on, ranging from web apps to data science experiments.  
+Hi, I'm Pandit Aman.
+
+👋 Hey there — welcome to my **Portfolio Repository**!  
+Here you’ll find collection of my projects 🚀 — from **web applications** to **data science experiments**, each built to explore, learn, and solve real-world problems.  
+  
 
 ---
 
