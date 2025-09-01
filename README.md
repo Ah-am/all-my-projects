@@ -13,7 +13,7 @@ Here you’ll find collection of my projects 🚀 — from **web applications** 
 ### [Anomaly Detection](project-1/)
 An anomaly detection system built to identify unusual patterns in data.  
 - **Tech:** Numpy , Pandas, Scikit-Learn  
-- [💻 Repo](https://github.com/Ah-am/Anomaly_Detection/tree/main)  
+- [💻 Repo](https://github.com/Ah-am/Anomaly_Detection)  
 ---
 ### [Malware Intrusion Detection](project-2/)
 A malware intrusion detection system built to identify and prevent malicious activities.
