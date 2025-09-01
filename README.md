@@ -10,17 +10,17 @@ Here you’ll find collection of my projects 🚀 — from **web applications** 
 
 ## 🌟 Featured Projects  
 
-### [Anomaly Detection](project-1/)
+### [Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection) 
 An anomaly detection system built to identify unusual patterns in data.  
 - **Tech:** Numpy , Pandas, Scikit-Learn  
-- [💻 Repo](https://github.com/Ah-am/Anomaly_Detection)  
+ 
 ---
-### [Malware Intrusion Detection](project-2/)
+### 🛡️[Malware Intrusion Detection](https://github.com/Ah-am/malware-intrusion-detection)
 A malware intrusion detection system built to identify and prevent malicious activities.
 - **Tech:** Pandas, Numpy, Scikit_Learn, Pickle  
-- [💻 Repo](https://github.com/Ah-am/malware-intrusion-detection)  
+
 ---
-### [Predicting Heart Disease](project-3/)
+### [Predicting Heart Disease](https://github.com/Ah-am/Predicting-Heart-Disease-using-Neural-Networks)
 A machine learning model built to predict the likelihood of heart disease
 - **Tech:** Pandas, Numpy, Scikit_Learn, Matplotlib, Keras  
 - [💻 Repo](https://github.com/Ah-am/Predicting-Heart-Disease-using-Neural-Networks)
