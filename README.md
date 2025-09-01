@@ -10,7 +10,7 @@ Here you’ll find collection of my projects 🚀 — from **web applications** 
 
 ## 🌟 Featured Projects  
 
-### [Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection) 
+### [🕵️Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection) 
 An anomaly detection system built to identify unusual patterns in data.  
 - **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
           
@@ -41,5 +41,4 @@ A full-stack data dashboard built with React + Node.js.
 - **Tech:** React, Node.js, PostgreSQL  
 - [🔗 Live Demo](https://example.com)
 - ### :: for small logo
-
 
