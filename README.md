@@ -1,9 +1,9 @@
-# 🚀 ALl My Projects  
+# 🚀 All My Projects  
 
 Hi, I'm Pandit Aman.
 
-👋 Hey there — welcome to my **Portfolio Repository**!  
-Here you’ll find collection of my projects 🚀 — from **web applications** to **data science experiments**, each built to explore, learn, and solve real-world problems.  
+👋 Hey there — welcome to my **Repository**!  
+Here you’ll find collection of my **projects 🚀** — from **web applications** to **data science experiments**, each built to explore, learn, and solve real-world problems.  
   
 
 ---
