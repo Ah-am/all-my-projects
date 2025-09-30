@@ -10,6 +10,15 @@ Here you’ll find collection of my **projects 🚀** — from **web application
 
 ## 🌟 Featured Projects  
 
+### [🩺Smart Diabetes Prediction](https://github.com/Ah-am/smart_diabetes_prediction)
+Predicts diabetes risk using machine learning algorithms based on key health metrics.
+- **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![Static Badge](https://img.shields.io/badge/seaborn-blue?logo=seaborn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=flat&logo=tensorflow&logoColor=white)
+
+
+
+
 ### [🕵️Anomaly Detection](https://github.com/Ah-am/Anomaly_Detection) 
 An anomaly detection system built to identify unusual patterns in data.  
 - **Tech:** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
